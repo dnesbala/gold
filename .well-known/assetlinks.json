@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.money.save.gold.kalash",
+      "sha256_cert_fingerprints": [
+        "1D:E5:C2:45:12:6D:B2:E0:7A:A2:2C:AC:A3:90:DC:C9:D3:44:00:F1:79:BD:CD:B3:72:64:31:A7:F9:27:D1:7A"
+      ]
+    }
+  }
+]
